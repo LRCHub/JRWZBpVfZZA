@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "24hours",
+  "base_artist": "ACE COLLECTION",
+  "createdAt": "2026-03-13T14:05:29.996437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "24Hours",
+      "artist": "Nils Landgren Funk Unit",
+      "has_synced": false,
+      "path": "select/01_24Hours_Nils_Landgren_Funk_Unit.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "24hours",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/02_24hours_YUKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "24Hours",
+      "artist": "Landgren, Nils, Funk Unit",
+      "has_synced": false,
+      "path": "select/03_24Hours_Landgren,_Nils,_Funk_Unit.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "24Hours",
+      "artist": "Make Some Noise",
+      "has_synced": true,
+      "path": "select/04_24Hours_Make_Some_Noise.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "24hours",
+      "artist": "ACE COLLECTION",
+      "has_synced": false,
+      "path": "select/pl_01_24hours_ACE_COLLECTION.txt"
+    }
+  ]
+}
